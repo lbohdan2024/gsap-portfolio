@@ -20,7 +20,7 @@ Portfolio Version 3
 :::
 
 #source
-[source](https://github.com/logotip4ik/portfolio)
+[source](https://github.com/lbohdan2024/gsap-portfolio)
 ::
 
 ::project-main

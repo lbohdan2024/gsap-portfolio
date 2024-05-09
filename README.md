@@ -32,7 +32,7 @@ projects that i am using quite often
 1. Clone or fork this repo
 
    ```shell
-   $ git clone https://github.com/logotip4ik/portfolio
+   $ git clone https://github.com/lbohdan2024/gsap-portfolio
    ```
 
 2. Install all the dependencies
