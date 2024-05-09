@@ -1,8 +1,7 @@
 ---
 title: 'Adam Warski | Technology blog and portfolio'
 description: This project was build exclusively Adam's portfolio and blog site. It is a portolio site that include articles, videos, blogs, conferences, and projects.
-live: 'https://github.com/lbohdan2024/hugo-portfolio'
-source: 'https://github.com/lbohdan2024/animation-portfolio'
+source: 'https://github.com/lbohdan2024/portfolio-hugo'
 tags:
   - 'Hugo'
   - 'CMS'

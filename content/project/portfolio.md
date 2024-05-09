@@ -1,6 +1,6 @@
 ---
 description: 'This website, as you might already notice, is my portfolio. I am using it to showcase what I learn and what I can do. It was built with the cutting-edge framework Nuxt'
-source: 'https://github.com/lbohdan2024/animation-portfolio'
+source: 'https://github.com/lbohdan2024/gsap-portfolio'
 live: 'https://nikitabk.vercel.app'
 tags:
   - Website
