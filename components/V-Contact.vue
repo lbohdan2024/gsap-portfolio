@@ -42,7 +42,7 @@ onMounted(() => {
     <NuxtLink
       ref="contactEmail"
       v-hoverable.mail
-      href="mailto:contact@bogdankostyuk.xyz"
+      href="mailto:lisovsky.auto@gmail.com"
       class="contact__email"
     >
       <span

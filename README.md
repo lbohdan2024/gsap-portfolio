@@ -1,9 +1,6 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua/)
-
 # Portfolio
 
-<img src="https://bogdankostyuk.xyz/logo.png" align="right"
-     alt="Portfolio logo by Bogdan Kostyuk" width="120" height="120">
+![Portfolio Logo](./public/logo.png?raw=true 'Nikita Lisovsky')
 
 This is my portfolio, where you can find little summery of my developer road. Also there are some of
 projects that i am using quite often
@@ -13,7 +10,6 @@ projects that i am using quite often
 ## License
 
 - Code is under [CC0 1.0](./LICENSE)
-- Images and projects contents are under [CC BY-NC-SA 4.0.](./CC-BY-NC-SA-4.0)
 
 ## Build with
 

@@ -1,6 +1,6 @@
 /* TEAM */
-	Developer: Bogdan Kostyuk.
-	Telegram: https://t.me/bogdankostyuk.
+	Developer: Nikita Lisovsky.
+	Telegram: https://t.me/tinkertalent.
 	Location: Ukraine, if you wanna know more, write me 😁.
 
 /* THANKS */

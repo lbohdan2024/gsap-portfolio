@@ -18,7 +18,7 @@ onMounted(() => {
 
   const revealAnimation = gsap.fromTo(
     text.lines,
-    { '--overlay-offset': '0%' },
+    { '--overlay-offset': '10%' },
     {
       '--overlay-offset': '100%',
       stagger: 0.1,

@@ -192,7 +192,7 @@ onMounted(() => {
       @click="() => $smoothScroll.scrollTo(0)"
       @keypress.enter.space.prevent="() => $smoothScroll.scrollTo(0)"
     >
-      BK
+      NL
     </p>
 
     <ul v-show="route.name === 'index'" ref="navList" class="nav__list">

@@ -91,6 +91,20 @@ const typeClasses = computed(() => {
     }
   }
 
+  &--3-col {
+    --gap: 1rem;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: var(--gap);
+    align-items: center;
+
+    @media screen and (max-width: 800px) {
+      grid-template-columns: 1fr;
+      grid-template-rows: repeat(2, auto);
+    }
+  }
+
   &--project-next {
     height: auto;
 
